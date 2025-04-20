@@ -1,0 +1,10 @@
+
+# Ignore specific Jupyter notebooks in the notebooks/ directory
+berlin_counterculture_merged.csv
+RawList.ipynb
+Untitled.ipynb
+Untitled1.ipynb
+
+
+# Allow specific notebooks if needed (example below)
+#!notebooks/EDA.ipynb
